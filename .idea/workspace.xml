@@ -2,11 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="bd742833-6b31-48e6-a350-f694b00e9355" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/recipe.module.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/App.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/App.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/App.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/App.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/Recipe.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/Recipe.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/recipe.module.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/recipe.module.css" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -60,7 +58,7 @@
       <option name="presentableId" value="Default" />
       <updated>1590483128631</updated>
       <workItem from="1590483130793" duration="19461000" />
-      <workItem from="1590657688822" duration="917000" />
+      <workItem from="1590657688822" duration="1211000" />
     </task>
     <task id="LOCAL-00001" summary="input form for searching added">
       <created>1590487246467</created>
@@ -97,7 +95,14 @@
       <option name="project" value="LOCAL" />
       <updated>1590510979617</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="css wrap results">
+      <created>1590658646430</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1590658646430</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -109,17 +114,19 @@
     <MESSAGE value="output title and calories" />
     <MESSAGE value="search update implemented" />
     <MESSAGE value="get Search results implemented" />
-    <option name="LAST_COMMIT_MESSAGE" value="get Search results implemented" />
+    <MESSAGE value="css wrap results" />
+    <option name="LAST_COMMIT_MESSAGE" value="css wrap results" />
   </component>
   <component name="WindowStateProjectService">
     <state x="291" y="120" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1590503121157">
       <screen x="67" y="27" width="1533" height="873" />
     </state>
     <state x="291" y="120" key="#com.intellij.execution.impl.EditConfigurationsDialog/67.27.1533.873/1600.0.1280.1024@67.27.1533.873" timestamp="1590503121157" />
-    <state x="288" y="34" width="872" height="847" key="CommitChangelistDialog2" timestamp="1590510978084">
-      <screen x="67" y="27" width="1533" height="873" />
+    <state x="1877" y="9" width="872" height="847" key="CommitChangelistDialog2" timestamp="1590658646061">
+      <screen x="1600" y="0" width="1920" height="1080" />
     </state>
     <state x="288" y="34" width="872" height="847" key="CommitChangelistDialog2/67.27.1533.873/1600.0.1280.1024@67.27.1533.873" timestamp="1590510978084" />
+    <state x="1877" y="9" key="CommitChangelistDialog2/67.27.1533.873/1600.0.1920.1080@1600.0.1920.1080" timestamp="1590658646061" />
     <state x="616" y="220" width="424" height="484" key="FileChooserDialogImpl" timestamp="1590502729244">
       <screen x="67" y="27" width="1533" height="873" />
     </state>
